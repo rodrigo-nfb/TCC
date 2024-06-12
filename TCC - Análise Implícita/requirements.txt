@@ -1,0 +1,8 @@
+odfpy
+pandas
+tabulate
+python-dateutil
+matplotlib
+scipy
+numpy
+unidecode
